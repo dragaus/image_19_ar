@@ -8,6 +8,12 @@ This project was made to ewxplain how to create an AR web page and use of gltf e
 * A-Frame
 * A-Frame extras
 
+## TODOS
+
+- [x] Create a checklist
+- [ ] Add links
+- [ ] Create new page
+
 ## Author
 
 Francisco Castañeda
